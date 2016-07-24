@@ -6,7 +6,7 @@
 name: Akshar Bonu
 
 # Short bio or description (displayed in the header)
-description:
+description: A quiet place for thoughts.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/11128721_10100962331771285_7846670858084257080_n.jpg?oh=6e6481e01a4c275283de8195f6482d07&oe=582E2527
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: aksharbonu
   instagram:
-  linkedin: https://www.linkedin.com/in/aksharbonu
+  linkedin: aksharbonu
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: aksharbonu
